@@ -1,7 +1,7 @@
 Issues
 ======
 
-This is a public issue-tracking repository for bugs and confirmed features related to the Overcast Network.
+This is a public issue-tracking repository for bugs and confirmed features related to Minehut.
 
 ### Important:
 
