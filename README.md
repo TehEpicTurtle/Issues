@@ -21,6 +21,7 @@ Issues can be [submitted](https://github.com/mchostco/Issues/issues/new) at the 
 * Verify the validity and/or plausibility of your issue
 * Be clear and concise in your description
 * Take advantage of [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)--it's awesome, and it makes your submission that much better! :smile:
+* Create a unique issue for each feature/bug-report
 
 ### Do not:
 
