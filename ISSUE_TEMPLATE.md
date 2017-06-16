@@ -2,7 +2,7 @@
 
 ### Actual behavior
 
-### Detailed steps to reproduce this behavoir
+### Detailed steps to reproduce this behavior
 
 ### Server name
 
