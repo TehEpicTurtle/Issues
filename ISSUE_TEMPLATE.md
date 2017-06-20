@@ -6,4 +6,4 @@
 
 ### Server name
 
-### Link to server logs
+### Link to server logs (/dl log)
