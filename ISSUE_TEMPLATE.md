@@ -1,14 +1,13 @@
 ### Expected behavior
-[answer]
+Easy server startup, join server after 1 minute or so.
 
 ### Actual behavior
-[answer]
+doesnt start up. gives me a message saying "your server was unresponsive on startup" after saying "starting server please wait" 20 times.
 
 ### Detailed steps to reproduce this behavior
-[answer]
-
+/join Duels
 ### Server name
-[answer]
+Duels
 
 ### Link to server logs (/dl log)
-[answer]
+Cant get on server. I dont have any logs
